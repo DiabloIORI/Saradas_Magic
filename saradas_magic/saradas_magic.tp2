@@ -52,24 +52,24 @@ DESIGNATED 0
 LABEL ~Saradas-Magic~
 REQUIRE_PREDICATE GAME_IS ~bgee eet bgt~ ~For BGEE, EET or BGT~
 
-
+/*
 ACTION_IF GAME_IS ~bgt~ BEGIN // Missing bam
 	COPY ~saradas_magic/bam~ ~override~
 END
+*/
 
-/*
 ACTION_IF NOT FILE_EXISTS_IN_GAME ~SPCL237A.BAM~ BEGIN
 	COPY ~saradas_magic/bam/SPCL237A.BAM~ ~override/SPCL237A.BAM~
-	COPY ~saradas_magic/bam/SPCL237A.BAM~ ~override/SPCL237B.BAM~
-	COPY ~saradas_magic/bam/SPCL237A.BAM~ ~override/SPCL237C.BAM~
+	COPY ~saradas_magic/bam/SPCL237B.BAM~ ~override/SPCL237B.BAM~
+	COPY ~saradas_magic/bam/SPCL237C.BAM~ ~override/SPCL237C.BAM~
 END
 
 ACTION_IF NOT FILE_EXISTS_IN_GAME ~SPDD03A.BAM~ BEGIN
 	COPY ~saradas_magic/bam/SPDD03A.BAM~ ~override/SPDD03A.BAM~
-	COPY ~saradas_magic/bam/SPDD03A.BAM~ ~override/SPDD03B.BAM~
-	COPY ~saradas_magic/bam/SPDD03A.BAM~ ~override/SPDD03C.BAM~
+	COPY ~saradas_magic/bam/SPDD03B.BAM~ ~override/SPDD03B.BAM~
+	COPY ~saradas_magic/bam/SPDD03C.BAM~ ~override/SPDD03C.BAM~
 END
-*/
+
 
 //
 

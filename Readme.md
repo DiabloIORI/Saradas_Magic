@@ -1,6 +1,18 @@
 # Saradas Magic for BGEE / EET / BGT
 
-![Language](https://img.shields.io/static/v1?label=language&message=english%20%7C%20Italian%20%7C%20Simplified%20Chinese%20%7C%20&color=informational)
+[![Release](https://img.shields.io/github/v/release/The-Gate-Project/Saradas_Magic?include_prereleases&color=41788a)](https://github.com/The-Gate-Project/Saradas_Magic/releases)
+[![Published](https://img.shields.io/github/release-date-pre/The-Gate-Project/Saradas_Magic?display_date=published_at&label=published&color=014a69)](https://github.com/The-Gate-Project/Saradas_Magic/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/The-Gate-Project/Saradas_Magic/total?color=41788a)](https://github.com/The-Gate-Project/Saradas_Magic/releases)
+
+[![Language](https://img.shields.io/badge/language-english%20%7C%20Italian%20%7C%20Simplified%20Chinese%20%7C%20-014a69)](https://github.com/The-Gate-Project/Saradas_Magic/releases)
+[![Games](https://img.shields.io/badge/games-BG1%20%a0%20BGEE%20%a0%20BGT%20%a0%20EET-41788a)](https://github.com/The-Gate-Project/Saradas_Magic/releases)
+
+<!--
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FThe-Gate-Project%2FSaradas_Magic&countColor=41788a&style=flat)
+
+[![Platform](https://img.shields.io/badge/platform-Windows%20%a0%20macOS%20%a0%20Linux%20%a0%20Project%20Infinity-014a69)](https://github.com/The-Gate-Project/Saradas_Magic/releases)
+-->
 
 **Autor** : **Saradas**
 
